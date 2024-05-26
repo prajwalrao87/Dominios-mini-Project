@@ -7,7 +7,7 @@ To Run the project:
 2]Now open an terminal 
 3]just type py then hit enter
 4]Now write in the terminal as
-from dominos import *
+from dominos import *      give enter then
 Dominos()
 5)now it asks for sign up and login in
 6]sign up first
