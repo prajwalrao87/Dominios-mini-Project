@@ -1,4 +1,4 @@
-Dominos Mini-Project
+**Dominos Mini-Project**
 Welcome to the Dominos Mini-Project! This is a basic Python project designed for students to practice and enhance their coding skills by working on a simple yet functional application.
 
 📋 Project Overview
