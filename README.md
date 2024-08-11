@@ -66,17 +66,6 @@ python
 Copy code
 dis_bill()
 
-📁 Project Structure
-plaintext
-Copy code
-├── database/               # Database setup and management files
-├── src/                    # Source code files
-│   ├── dominos.py          # Main project file
-│   └── utils.py            # Utility functions
-├── README.md               # Project README
-└── LICENSE                 # License information
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 👥 Contributors
 Your Name - @prajwalrao
