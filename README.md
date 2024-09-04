@@ -67,7 +67,7 @@ Your Name - @prajwalrao
 Contributions are welcome! Please check the contributing guidelines before submitting a pull request.
 
 💬 Feedback & Support
-For any questions, feedback, or support, feel free to reach out at prajwalrao87@example.com
+For any questions, feedback, or support, feel free to reach out at prajwalrao87@gmail.com
 
 📢 Keep coding and enjoy your Dominos Mini-Project experience!
 This README template is designed to make your project look professional and organized on GitHub. Customize it with your own details, such as links to your database setup instructions, actual project structure, and contact information.
