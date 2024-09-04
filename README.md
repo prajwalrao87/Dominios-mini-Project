@@ -17,12 +17,6 @@ Before running the project, ensure you have:
 Python 3.x installed on your machine.
 Basic knowledge of Python and command line operations.
 Setup Instructions
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/dominos-mini-project.git
-cd dominos-mini-project
 Set Up the Database:
 
 Before running the project, you need to set up a database to store user and order information. Instructions for setting up the database can be found here.
